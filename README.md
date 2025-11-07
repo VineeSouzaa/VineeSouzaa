@@ -10,7 +10,7 @@
 
 ### 🚀 Current Focus
 🧩 Crafting scalable architectures with **NestJS**, **Redis**, and **GraphQL**  
-🧠 Researching **AI for legal text analysis**  
+🧠 Researching **AI for improve proposes**  
 ⚙️ Optimizing **database performance** and **query efficiency**
 
 ---
