@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Current Focus
-🧩 Crafting scalable architectures with **NestJS**, **Redis**, and **GraphQL**  
+🧩 Crafting scalable architectures with **NestJS** and **NextJs**
 🧠 Researching **AI for improve proposes**  
 ⚙️ Optimizing **database performance** and **query efficiency**
 
@@ -31,6 +31,7 @@
 ![DDD](https://img.shields.io/badge/Domain--Driven%20Design-007ACC?style=for-the-badge)
 
 #### **Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel Blade](https://img.shields.io/badge/Laravel%20Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
