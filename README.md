@@ -5,6 +5,8 @@
 
 I also have a long time experience with Mobile Development and front-end frameworks/patterns
 
+Today I have more experience with JavaScript (Typescript) backend
+
 ---
 
 ### 🛠️ Tech proficiencies
