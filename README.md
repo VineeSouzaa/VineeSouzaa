@@ -3,7 +3,7 @@
 💼 Backend/Frontend developer since 2018 | formed in System Analysis 
 | 🚀 I love AI, backend performance, db queries analysis.
 
-I also have a ruge experience into Mobile Development and front-end frameworks/patterns
+I also have a long time experience with Mobile Development and front-end frameworks/patterns
 
 ---
 
