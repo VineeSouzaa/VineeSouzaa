@@ -10,6 +10,7 @@ I also have a ruge experience into Mobile Development and front-end frameworks/p
 ### 📊 My statistics
 
 ![Metrics](https://metrics.lecoq.io/vinicius-souza?template=classic&languages=1&isocalendar=1&repositories=100&followup=1&theme=dracula)
+![Metrics](https://metrics.lecoq.io/vinicius-souza?template=classic&isocalendar=1&languages=1&stars=1&followup=1&prs=1&theme=dracula)
 
 ---
 
