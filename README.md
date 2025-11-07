@@ -12,6 +12,9 @@ I also have a ruge experience into Mobile Development and front-end frameworks/p
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-souza&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-souza&layout=compact&theme=dracula)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vinicius-souza&theme=dracula)](https://git.io/streak-stats)
+![Metrics](https://metrics.lecoq.io/vinicius-souza?template=classic&isocalendar=1&languages=1&stars=1&followup=1&prs=1&theme=dracula)
+
+
 
 ---
 
