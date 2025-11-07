@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 👋 Hi, I'm Vinícius Souza  
 
@@ -16,7 +16,6 @@
 ---
 
 ### 🛠️ Tech Proficiencies
-</div>
 
 #### **Backend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,9 +56,5 @@
 
 ---
 
-<div align="center">
-
 ### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ViniciusSouza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vin%C3%ADcius-souza-81819b184/)
-
-</div>
