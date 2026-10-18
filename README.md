@@ -1,101 +1,56 @@
 <div align="center">
 
-# 👋 Hi, I'm Vinícius Souza
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0a0a0a&height=170&section=header&text=Vin%C3%ADcius%20Souza&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Full-stack%20engineer%20%C2%B7%20backend%20bias&descAlignY=62&descSize=16" alt="Vinícius Souza — Full-stack engineer, backend bias" width="100%" />
 
-**Fullstack developer with a backend bias** — I ship production features in **NestJS + GraphQL + Prisma** on the server and **Next.js + React + Apollo Client** on the web. Clean Architecture / Hexagonal as the default, not the exception.
+<a href="https://github.com/VineeSouzaa">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1800&color=00D4AA&center=true&vCenter=true&width=640&height=30&lines=NestJS+%2B+GraphQL+%2B+Prisma+on+the+server;Next.js+%2B+React+on+the+web;Payments%2C+documents%2C+and+resilient+integrations" alt="NestJS + GraphQL + Prisma on the server · Next.js + React on the web · Payments, documents, and resilient integrations" />
+</a>
 
-*Currently building a document-signing and billing platform: payment integrations, contract workflows, and rich-text editing at scale.*
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinícius%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-souza-81819b184/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vin%C3%ADcius%20Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-souza-81819b184/)
 [![Email](https://img.shields.io/badge/Email-vine.vsb3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vine.vsb3@gmail.com)
 
 </div>
 
----
+<br />
 
-### 🚀 What I actually ship
+I'm a full-stack engineer with **6+ years** shipping web products, leaning backend: **Node.js, NestJS and TypeScript** on the server, **React and Next.js** on the front. I build with Hexagonal / DDD-style layering and test next to the feature.
 
-- 💳 **Payments & financial integrations** — Stripe, Pix, Itaú, Maxipago, PagBank, boleto, webhooks, antifraud, recurring plans, cancellation/refund flows.
-- ✍️ **Rich-text editing & documents** — TipTap editor with custom extensions (Word import/export, PDF export via Puppeteer, tables, emoji, images backed by S3). Researching Yjs / Hocuspocus for real-time collaboration.
-- 🔌 **GraphQL APIs** — Apollo Server + NestJS, Relay-style pagination, generated types via GraphQL Codegen on the front.
-- 🗄️ **Data & persistence** — Prisma + PostgreSQL, schema design, migrations, seeds, in-memory repositories for tests.
-- 🎨 **Frontend systems** — Next.js (App Router), Atomic Design component libraries, React Hook Form + Zod, Tailwind, Radix UI, Storybook + Chromatic.
+> **A note on this profile:** my day-to-day work is on private, company-owned codebases (the last ~3 years on a document-signing and billing platform), so it isn't public and this contribution graph undersells it. What's public here is side projects and experiments.
 
 ---
 
-### 🧭 How I work
+### 🔧 What I build
 
-- 🏛️ **Clean Architecture / DDD-lite** — `domain / application / infrastructure` kept honest.
-- 📝 **Conventional Commits** with semantic-release, commitlint, husky, lint-staged — commit history as documentation.
-- 🧪 **Tests alongside features** — Jest, in-memory repositories, e2e where it matters.
-- 🎯 **Opinionated lint setups** (hexagonal, perfectionist, no-secrets) — consistency scales better than discipline.
-- 🐳 **Docker-first** local dev, OpenTelemetry traces, structured logging with Pino.
+- 💳 **Payments & financial integrations** — Stripe, Pix, Itaú, boleto, webhooks, recurring plans, refunds. Idempotency and retry-safety first.
+- ✍️ **Documents & rich text** — TipTap editor with custom extensions, Word/PDF import and export, signature placement across PDF and ProseMirror.
+- 🔌 **APIs** — GraphQL (Apollo + NestJS) and REST, with generated types on the front end.
+- 🏛️ **Legacy modernization** — breaking monoliths into modules without stopping delivery.
 
----
-
-### 🛠️ Tech I use day-to-day
-
-**Backend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-00A98F?style=for-the-badge)
-![DDD](https://img.shields.io/badge/DDD-007ACC?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
-![TipTap](https://img.shields.io/badge/TipTap-000000?style=for-the-badge)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-
-**Data, infra & tooling**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🎯 Current focus
-
-- 📄 **Document workflows** — contract templates, PDF/Word round-trips, signature placement across PDF and HTML/ProseMirror.
-- 💰 **Payment infrastructure** — resilient webhooks, retry-safe idempotency, antifraud heuristics.
-- 🤖 **AI-assisted engineering** — structured ADR + viability analysis knowledge base paired with coding agents on real product decisions.
-
----
-
-### 📊 GitHub stats
+### 🧰 Core stack
 
 <div align="center">
 
-![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=VineeSouzaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VineeSouzaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VineeSouzaa&theme=tokyonight&hide_border=true)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,graphql,postgres,react,nextjs,docker&theme=dark" alt="TypeScript, Node.js, NestJS, GraphQL, PostgreSQL, React, Next.js, Docker" />
+</a>
 
 </div>
 
+<sub>Also used along the way: Prisma, Express, Tailwind, Jest, GitHub Actions, Jenkins, Flutter.</sub>
+
 ---
+
+### 🌱 Lately
+
+- **[event-ticketing-api](https://github.com/VineeSouzaa/event-ticketing-api)** / **[event-ticketing-web](https://github.com/VineeSouzaa/event-ticketing-web)** — a ticketing system built to practice what production payments demand: idempotency keys, correlation IDs, seat holds with expiry.
+- **AI-assisted engineering** — I use coding agents daily and keep a personal ADR + viability knowledge base to keep their output honest.
+
+<br />
 
 <div align="center">
 
-*“Evidence in code, not promises.”*
+*Open to full-stack / backend roles, remote.*
 
 </div>
